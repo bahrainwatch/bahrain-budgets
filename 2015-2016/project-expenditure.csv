@@ -1,36 +1,36 @@
-Description,2016,2015
-Ministry of Interior,22000000,22000000
-National Guard,3000000,3000000
-First Deputy of H.R.H The Prime Minister Office,3000000,3000000
-Ministry of Foreign Affairs,1500000,1500000
-Ministry of Justice & Islamic Affairs & Awqaf (Justice Affairs),700000,700000
-Civil Service Bureau,700000,700000
-Central Informatics Organization,1000000,1000000
-Ministry of Justice & Islamic Affairs & Awqaf (Islamic Affairs),800000,800000
-Supreme Judicial Council,150000,150000
-Survey & Land Registration Bureau,1000000,1000000
-Customs Affairs,1500000,1500000
-King Hamad University Hospital,10000000,8000000
-Ministry of Education,7000000,7000000
-Ministry of Health,7000000,7000000
-Ministry of Labour,102000,175000
-General Organization for Youth & Sports,3000000,3000000
-Ministry of Social Development,1000000,1000000
-Information Affairs Authority,7000000,7000000
-Bahrain Authority for Culture & Antiquities,6000000,6000000
-Ministry of Industry & Commerce,4000000,5000000
-Ministry of Finance,2500000,2500000
-Ministry of Housing,145000000,145000000
-"Ministry of Works, Municipalities Affairs & Urban Planning (Works Affairs)",100000000,75000000
-Ministry of Transportation & Telecommunications,6000000,6000000
-"Ministry of Works, Municipalities Affairs & Urban Planning (Municipalities Affairs & Urban Planning)",15000000,10000000
-Supreme Council for the Environment,1000000,800000
-Tender Board,200000,200000
-University of Bahrain,3000000,3000000
-Institute of Public Administration,150000,150000
-High Council for Islamic Affairs,1000000,1000000
-Economic Development Board,10000000,10000000
-E. Government Authority,4000000,4000000
-Gulf Air Company,55000000,65000000
-Various Capital Projects,41698000,42825000
-Total,465000000,445000000
+Sector,Description,2016,2015
+Public Administration Sector,Ministry of Interior,22000000,22000000
+Public Administration Sector,National Guard,3000000,3000000
+Public Administration Sector,First Deputy of H.R.H The Prime Minister Office,3000000,3000000
+Public Administration Sector,Ministry of Foreign Affairs,1500000,1500000
+Public Administration Sector,Ministry of Justice & Islamic Affairs & Awqaf (Justice Affairs),700000,700000
+Public Administration Sector,Civil Service Bureau,700000,700000
+Public Administration Sector,Central Informatics Organization,1000000,1000000
+Public Administration Sector,Ministry of Justice & Islamic Affairs & Awqaf (Islamic Affairs),800000,800000
+Public Administration Sector,Supreme Judicial Council,150000,150000
+Public Administration Sector,Survey & Land Registration Bureau,1000000,1000000
+Public Administration Sector,Customs Affairs,1500000,1500000
+Public Administration Sector,King Hamad University Hospital,10000000,8000000
+Social Services Sector,Ministry of Education,7000000,7000000
+Social Services Sector,Ministry of Health,7000000,7000000
+Social Services Sector,Ministry of Labour,102000,175000
+Social Services Sector,General Organization for Youth & Sports,3000000,3000000
+Social Services Sector,Ministry of Social Development,1000000,1000000
+Social Services Sector,Information Affairs Authority,7000000,7000000
+Social Services Sector,Bahrain Authority for Culture & Antiquities,6000000,6000000
+Economic Services Sector,Ministry of Industry & Commerce,4000000,5000000
+Economic Services Sector,Ministry of Finance,2500000,2500000
+Infrastructure Sector,Ministry of Housing,145000000,145000000
+Infrastructure Sector,"Ministry of Works, Municipalities Affairs & Urban Planning (Works Affairs)",100000000,75000000
+Infrastructure Sector,Ministry of Transportation & Telecommunications,6000000,6000000
+Miscellaneous Budget,"Ministry of Works, Municipalities Affairs & Urban Planning (Municipalities Affairs & Urban Planning)",15000000,10000000
+Miscellaneous Budget,Supreme Council for the Environment,1000000,800000
+Miscellaneous Budget,Tender Board,200000,200000
+Transfer Budget,University of Bahrain,3000000,3000000
+Transfer Budget,Institute of Public Administration,150000,150000
+Transfer Budget,High Council for Islamic Affairs,1000000,1000000
+Transfer Budget,Economic Development Board,10000000,10000000
+Transfer Budget,E. Government Authority,4000000,4000000
+Transfer Budget,Gulf Air Company,55000000,65000000
+Transfer Budget,Various Capital Projects,41698000,42825000
+,Total,465000000,445000000

@@ -1,40 +1,40 @@
-Description,2016,2015
-Net Oil Revenue,1269039000,1269327000
-Net Gas Revenue,469965000,414147000
-Oil Taxation & Fees,18609000,17313000
-Ministry of Interior,40700000,40454000
-Legislation & Legal Opinion Commission,5000,5000
-Ministry of Foreign Affairs,2055000,2055000
-Ministry of Justice & Islamic Affairs & Awqaf (Justice Affairs),10846000,10846000
-Ministry of Justice & Islamic Affairs & Awqaf (Islamic Affairs),10000,10000
-Civil Service Bureau,5000,5000
-Central Informatics Organization,1688000,1683000
-Survey & Land Registration Bureau,20886000,20376000
-Customs Affairs,99700000,99700000
-Ministry of Education,900000,768000
-Ministry of Health,33570000,33450000
-Ministry of Labour,74000,67000
-General Organization for Youth & Sports,17000,16000
-Ministry of Social Development,5000,5000
-Information Affairs Authority,1628000,1492000
-Ministry of Industry & Commerce,20062000,19495000
-Ministry of Finance,3000,3000
-Ministry of Housing,35000,34000
-"Ministry of Works, Municipalities Affairs & Urban Planning (Works Affairs)",267000,267000
-Ministry of Transportation & Telecommunications,38657000,37292000
-"Ministry of Works, Municipalities Affairs & Urban Planning (Municipalities Affairs & Urban Planning)",335000,335000
-Supreme Council for the Environment,273000,143000
-Constitutional Court,4000,4000
-E. Government Authority,200000,200000
-Economic Development Board,202000,202000
-Institute of Public Administration,987000,900000
-Bahrain Polytechnic,900000,900000
-"Bahrain Center for Strategic, International and Energy Studies",50000,50000
-National Health Regulatory Authority,357000,285000
-Grants,28200000,28200000
-Government Returns from Telecommunications Regulatory Authority,15000000,15000000
-Government Returns from National Oil & Gas Holding Company,56400000,56400000
-Government Share from Labour Market Regulatory Authority Fees,18500000,18500000
-Miscellaneous Revenue,7400000,7400000
-Eskan Bank Returns,20000000,0
-Total,2177534000,2097329000
+Sector,Description,2016,2015
+Oil & Gas Sector,Net Oil Revenue,1269039000,1269327000
+Oil & Gas Sector,Net Gas Revenue,469965000,414147000
+Oil & Gas Sector,Oil Taxation & Fees,18609000,17313000
+Public Administration Sector,Ministry of Interior,40700000,40454000
+Public Administration Sector,Legislation & Legal Opinion Commission,5000,5000
+Public Administration Sector,Ministry of Foreign Affairs,2055000,2055000
+Public Administration Sector,Ministry of Justice & Islamic Affairs & Awqaf (Justice Affairs),10846000,10846000
+Public Administration Sector,Ministry of Justice & Islamic Affairs & Awqaf (Islamic Affairs),10000,10000
+Public Administration Sector,Civil Service Bureau,5000,5000
+Public Administration Sector,Central Informatics Organization,1688000,1683000
+Public Administration Sector,Survey & Land Registration Bureau,20886000,20376000
+Public Administration Sector,Customs Affairs,99700000,99700000
+Social Services Sector,Ministry of Education,900000,768000
+Social Services Sector,Ministry of Health,33570000,33450000
+Social Services Sector,Ministry of Labour,74000,67000
+Social Services Sector,General Organization for Youth & Sports,17000,16000
+Social Services Sector,Ministry of Social Development,5000,5000
+Social Services Sector,Information Affairs Authority,1628000,1492000
+Economic Service Sector,Ministry of Industry & Commerce,20062000,19495000
+Economic Service Sector,Ministry of Finance,3000,3000
+Infrastructure Sector,Ministry of Housing,35000,34000
+Infrastructure Sector,"Ministry of Works, Municipalities Affairs & Urban Planning (Works Affairs)",267000,267000
+Infrastructure Sector,Ministry of Transportation & Telecommunications,38657000,37292000
+Miscellaneous Budget,"Ministry of Works, Municipalities Affairs & Urban Planning (Municipalities Affairs & Urban Planning)",335000,335000
+Miscellaneous Budget,Supreme Council for the Environment,273000,143000
+Transfer Budget,Constitutional Court,4000,4000
+Transfer Budget,E. Government Authority,200000,200000
+Transfer Budget,Economic Development Board,202000,202000
+Transfer Budget,Institute of Public Administration,987000,900000
+Transfer Budget,Bahrain Polytechnic,900000,900000
+Transfer Budget,"Bahrain Center for Strategic, International and Energy Studies",50000,50000
+Transfer Budget,National Health Regulatory Authority,357000,285000
+Accounts Under MOF Control,Grants,28200000,28200000
+Accounts Under MOF Control,Government Returns from Telecommunications Regulatory Authority,15000000,15000000
+Accounts Under MOF Control,Government Returns from National Oil & Gas Holding Company,56400000,56400000
+Accounts Under MOF Control,Government Share from Labour Market Regulatory Authority Fees,18500000,18500000
+Accounts Under MOF Control,Miscellaneous Revenue,7400000,7400000
+Accounts Under MOF Control,Eskan Bank Returns,20000000,0
+,Total,2177534000,2097329000
