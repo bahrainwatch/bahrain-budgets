@@ -1,92 +1,92 @@
-Description,2010,2009
-Prime Minister's Court,16369000,16270000
-Deputy Prime Minister,1125000,1108000
-Deputy Prime Minister,449000,440000
-Deputy Prime Minister,195000,195000
-Prime Minister's Advisor for Economic Affairs,344000,338000
-Prime Minister's Advisor for Cultural Affairs,354000,350000
-Prime Minister's Advisor,254000,249000
-Prime Minister's Advisor,195000,195000
-Prime Minister's Advisor for Security Affairs,330000,324000
-Prime Ministers Advisor for Industry & Oil Affairs,195000,195000
-Ministry of Defence,279100000,265600000
-The General Commission for the Higher Defence Council,288000,288000
-Ministry of Interior,187104000,182006000
-Customs Affairs,14509000,14384000
-National Security Agency,18218000,18218000
-National Guard,24222000,23171000
-Legal Affairs Directorate,1669000,1664000
-Ministry of Foreign Affairs,29326000,25674000
-Ministry of Justice & Islamic Affairs (Justice Affairs),19734000,19489000
-Ministry of Justice & Islamic Affairs (Islamic Affairs),2500000,2470000
-Ministry of State for Cabinet Affairs,1515000,1489000
-Civil Service Bureau,4523000,4432000
-Central Informatics Organization,7336000,7251000
-Survey & Land Registration Bureau,5174000,5078000
-Ministry of Information,11305000,11163000
-Ministry of Education,225020000,213822000
-Ministry of Health,202066000,172562000
-Ministry of Labour,5371000,5271000
-Labour Market Regulatory Authority,5000000,5000000
-Ministry of Social Development,16681000,16895000
-Social Welfare Fund,13400000,13400000
-General Organization for Youth & Sports,13575000,13479000
-Ministry of Industry & Commerce,11048000,10759000
-National Oil & Gas Authority,2652000,2606000
-Ministry of Finance,7576000,7437000
-Ministry of Housing,4091000,4012000
-Ministry of Works,24422000,23929000
-Electricity & Water Authority,200000000,175300000
-"Post, Communication,Frequency and Transport Affairs",7634000,7489000
-Civil Aviation Affairs,12897000,12301000
-Ministry of Municipalities & Agriculture Affairs (Agriculture Affairs),6849000,6683000
-Ministry of Municipalities & Agriculture Affairs (Municipalities Affairs),2192000,2152000
-Equestrian & Horse Racing Club,1304000,1285000
-"Public Commission for the Protection of Marine Resources, Environment & Wildlife",5150000,5000000
-Mohammed bin Khalifa Al Khalifa Cardiac Center,9350000,9350000
-Ministry of State for Shura Council & Representatives Council Affairs,1270000,1210000
-Tender Board,964000,953000
-Municipality Councils,612000,612000
-Constitutional Court,2240000,2229000
-Radio & TV Corporation,12197000,12197000
-Bahrain Center for Studies & Research,1446000,1446000
-Sunni Awqaf,2465000,2465000
-Ja'afari Awqaf,2465000,2465000
-University of Bahrain,40878000,40878000
-Teachers' College (University of Bahrain),6000000,3658000
-Subsidies,36400000,36400000
-Bait Al-Qura'an,76000,76000
-Shura Council,7341000,6869000
-Districts,4208000,4008000
-High Council for Islamic Affairs,3878000,3780000
-National Audit Court,4150000,3826000
-High Council for Vocational Training,3500000,3500000
-Economic Development Board,6300000,6200000
-Bahrain Exhibition & Convention Authority,750000,750000
-Royal Charity Organization,1880000,1880000
-Representatives Council,6522000,6326000
-Bahrain Institute for Political Development,1500000,1500000
-Housing Programme Support (Rent Allowance),24600000,24600000
-Housing Programme Support (Housing Loans Reduction),4000000,4000000
-Bahrain Institute for Public Administration,5000000,5000000
-Maintenance Fund,250000,250000
-E. Government Authority,4072000,2153000
-Quality Assurance Authority,5400000,4965000
-Bahrain Polytechnic,13100000,10700000
-Government Debt Interest,85000000,80000000
-Contribution to GCC,2800000,2700000
-Government Grants,3000000,2500000
-Government Share in Pension Fund,600000,525000
-Contribution to United Nations Organization,1000000,1000000
-Miscellaneous Commitments,7020000,6520000
-The General Organization for Social Insurance,13900000,13900000
-The Government's Share in Unemployment Insurance,10000000,10000000
-Other Estimations for Line Ministries & Government Agencies,70000000,70000000
-Risk Financing,800000,800000
-UNDP-Bahrain Country Co-operation Framework (CCF),750000,750000
-Early Retirement Scheme,11000000,11000000
-Shaikh Isa Cutural Centre,800000,800000
-Housing Programme Support,20000000,20000000
-Total,1832745000,1726164000
-Reserve (3%),54983000,51784000
-Grand Total,1887728000,1777948000
+Sector,Description,2010,2009
+Public Administration Sector,Prime Minister's Court,16369000,16270000
+Public Administration Sector,Deputy Prime Minister,1125000,1108000
+Public Administration Sector,Deputy Prime Minister,449000,440000
+Public Administration Sector,Deputy Prime Minister,195000,195000
+Public Administration Sector,Prime Minister's Advisor for Economic Affairs,344000,338000
+Public Administration Sector,Prime Minister's Advisor for Cultural Affairs,354000,350000
+Public Administration Sector,Prime Minister's Advisor,254000,249000
+Public Administration Sector,Prime Minister's Advisor,195000,195000
+Public Administration Sector,Prime Minister's Advisor for Security Affairs,330000,324000
+Public Administration Sector,Prime Ministers Advisor for Industry & Oil Affairs,195000,195000
+Public Administration Sector,Ministry of Defence,279100000,265600000
+Public Administration Sector,The General Commission for the Higher Defence Council,288000,288000
+Public Administration Sector,Ministry of Interior,187104000,182006000
+Public Administration Sector,Customs Affairs,14509000,14384000
+Public Administration Sector,National Security Agency,18218000,18218000
+Public Administration Sector,National Guard,24222000,23171000
+Public Administration Sector,Legal Affairs Directorate,1669000,1664000
+Public Administration Sector,Ministry of Foreign Affairs,29326000,25674000
+Public Administration Sector,Ministry of Justice & Islamic Affairs (Justice Affairs),19734000,19489000
+Public Administration Sector,Ministry of Justice & Islamic Affairs (Islamic Affairs),2500000,2470000
+Public Administration Sector,Ministry of State for Cabinet Affairs,1515000,1489000
+Public Administration Sector,Civil Service Bureau,4523000,4432000
+Public Administration Sector,Central Informatics Organization,7336000,7251000
+Public Administration Sector,Survey & Land Registration Bureau,5174000,5078000
+Social Services Sector,Ministry of Information,11305000,11163000
+Social Services Sector,Ministry of Education,225020000,213822000
+Social Services Sector,Ministry of Health,202066000,172562000
+Social Services Sector,Ministry of Labour,5371000,5271000
+Social Services Sector,Labour Market Regulatory Authority,5000000,5000000
+Social Services Sector,Ministry of Social Development,16681000,16895000
+Social Services Sector,Social Welfare Fund,13400000,13400000
+Social Services Sector,General Organization for Youth & Sports,13575000,13479000
+Economic Services Sector,Ministry of Industry & Commerce,11048000,10759000
+Economic Services Sector,National Oil & Gas Authority,2652000,2606000
+Economic Services Sector,Ministry of Finance,7576000,7437000
+Infrastructure Sector,Ministry of Housing,4091000,4012000
+Infrastructure Sector,Ministry of Works,24422000,23929000
+Infrastructure Sector,Electricity & Water Authority,200000000,175300000
+Infrastructure Sector,"Post, Communication,Frequency and Transport Affairs",7634000,7489000
+Infrastructure Sector,Civil Aviation Affairs,12897000,12301000
+Miscellaneous Budget,Ministry of Municipalities & Agriculture Affairs (Agriculture Affairs),6849000,6683000
+Miscellaneous Budget,Ministry of Municipalities & Agriculture Affairs (Municipalities Affairs),2192000,2152000
+Miscellaneous Budget,Equestrian & Horse Racing Club,1304000,1285000
+Miscellaneous Budget,"Public Commission for the Protection of Marine Resources, Environment & Wildlife",5150000,5000000
+Miscellaneous Budget,Mohammed bin Khalifa Al Khalifa Cardiac Center,9350000,9350000
+Miscellaneous Budget,Ministry of State for Shura Council & Representatives Council Affairs,1270000,1210000
+Miscellaneous Budget,Tender Board,964000,953000
+Transfer Budget,Municipality Councils,612000,612000
+Transfer Budget,Constitutional Court,2240000,2229000
+Transfer Budget,Radio & TV Corporation,12197000,12197000
+Transfer Budget,Bahrain Center for Studies & Research,1446000,1446000
+Transfer Budget,Sunni Awqaf,2465000,2465000
+Transfer Budget,Ja'afari Awqaf,2465000,2465000
+Transfer Budget,University of Bahrain,40878000,40878000
+Transfer Budget,Teachers' College (University of Bahrain),6000000,3658000
+Transfer Budget,Subsidies,36400000,36400000
+Transfer Budget,Bait Al-Qura'an,76000,76000
+Transfer Budget,Shura Council,7341000,6869000
+Transfer Budget,Districts,4208000,4008000
+Transfer Budget,High Council for Islamic Affairs,3878000,3780000
+Transfer Budget,National Audit Court,4150000,3826000
+Transfer Budget,High Council for Vocational Training,3500000,3500000
+Transfer Budget,Economic Development Board,6300000,6200000
+Transfer Budget,Bahrain Exhibition & Convention Authority,750000,750000
+Transfer Budget,Royal Charity Organization,1880000,1880000
+Transfer Budget,Representatives Council,6522000,6326000
+Transfer Budget,Bahrain Institute for Political Development,1500000,1500000
+Transfer Budget,Housing Programme Support (Rent Allowance),24600000,24600000
+Transfer Budget,Housing Programme Support (Housing Loans Reduction),4000000,4000000
+Transfer Budget,Bahrain Institute for Public Administration,5000000,5000000
+Transfer Budget,Maintenance Fund,250000,250000
+Transfer Budget,E. Government Authority,4072000,2153000
+Transfer Budget,Quality Assurance Authority,5400000,4965000
+Transfer Budget,Bahrain Polytechnic,13100000,10700000
+Transfer Budget (Accounts Under Ministry of Finance Control),Government Debt Interest,85000000,80000000
+Transfer Budget (Accounts Under Ministry of Finance Control),Contribution to GCC,2800000,2700000
+Transfer Budget (Accounts Under Ministry of Finance Control),Government Grants,3000000,2500000
+Transfer Budget (Accounts Under Ministry of Finance Control),Government Share in Pension Fund,600000,525000
+Transfer Budget (Accounts Under Ministry of Finance Control),Contribution to United Nations Organization,1000000,1000000
+Transfer Budget (Accounts Under Ministry of Finance Control),Miscellaneous Commitments,7020000,6520000
+Transfer Budget (Accounts Under Ministry of Finance Control),The General Organization for Social Insurance,13900000,13900000
+Transfer Budget (Accounts Under Ministry of Finance Control),The Government's Share in Unemployment Insurance,10000000,10000000
+Transfer Budget (Accounts Under Ministry of Finance Control),Other Estimations for Line Ministries & Government Agencies,70000000,70000000
+Transfer Budget (Accounts Under Ministry of Finance Control),Risk Financing,800000,800000
+Transfer Budget (Accounts Under Ministry of Finance Control),UNDP-Bahrain Country Co-operation Framework (CCF),750000,750000
+Transfer Budget (Accounts Under Ministry of Finance Control),Early Retirement Scheme,11000000,11000000
+Transfer Budget (Accounts Under Ministry of Finance Control),Shaikh Isa Cutural Centre,800000,800000
+Transfer Budget (Accounts Under Ministry of Finance Control),Housing Programme Support,20000000,20000000
+,Total,1832745000,1726164000
+,Reserve (3%),54983000,51784000
+,Grand Total,1887728000,1777948000

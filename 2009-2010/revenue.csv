@@ -1,24 +1,24 @@
-Description,2010,2009
-Ministry of Interior,46437000,46011000
-Legal Affairs Directorate,6000,6000
-Ministry of Foreign Affairs,1831000,1696000
-Ministry of Justice & Islamic Affairs (Justice Affairs),10158000,7558000
-Central Informatics Organization,1184000,2960000
-Ministry of Justice & Islamic Affairs (Islamic Affairs),10000,10000
-Civil Service Bureau,2000,2000
-Survey & Land Registration Bureau,11300000,10300000
-Ministry of Information,8886000,8483000
-Ministry of Education,188000,198000
-Ministry of Health,13289000,12667000
-Ministry of Labour,5043000,4670000
-Ministry of Social Development,15000,15000
-Ministry of Industry & Commerce,5827000,5738000
-National Oil & Gas Authority,1123928000,1061883000
-Ministry of Finance,141444000,143321000
-Ministry of Works,230000,230000
-"Post, Communication,Frequency and Transport Affairs",6255000,5930000
-Civil Aviation Affairs,9200000,8700000
-Customs Affairs,78070000,77952000
-Ministry of Municipalities & Agriculture Affairs (Agriculture Affairs),330000,315000
-"Public Commission for the Protection of Marine Resources, Environment & Wildlife ",284000,280000
-Total,1463917000,1398925000
+Sector,Description,2010,2009
+Public Administration Sector,Ministry of Interior,46437000,46011000
+Public Administration Sector,Legal Affairs Directorate,6000,6000
+Public Administration Sector,Ministry of Foreign Affairs,1831000,1696000
+Public Administration Sector,Ministry of Justice & Islamic Affairs (Justice Affairs),10158000,7558000
+Public Administration Sector,Central Informatics Organization,1184000,2960000
+Public Administration Sector,Ministry of Justice & Islamic Affairs (Islamic Affairs),10000,10000
+Public Administration Sector,Civil Service Bureau,2000,2000
+Public Administration Sector,Survey & Land Registration Bureau,11300000,10300000
+Social Services Sector,Ministry of Information,8886000,8483000
+Social Services Sector,Ministry of Education,188000,198000
+Social Services Sector,Ministry of Health,13289000,12667000
+Social Services Sector,Ministry of Labour,5043000,4670000
+Social Services Sector,Ministry of Social Development,15000,15000
+Economic Services Sector,Ministry of Industry & Commerce,5827000,5738000
+Economic Services Sector,National Oil & Gas Authority,1123928000,1061883000
+Economic Services Sector,Ministry of Finance,141444000,143321000
+Infrastructure Sector,Ministry of Works,230000,230000
+Infrastructure Sector,"Post, Communication,Frequency and Transport Affairs",6255000,5930000
+Infrastructure Sector,Civil Aviation Affairs,9200000,8700000
+Infrastructure Sector,Customs Affairs,78070000,77952000
+Miscellaneous Budget,Ministry of Municipalities & Agriculture Affairs (Agriculture Affairs),330000,315000
+Miscellaneous Budget,"Public Commission for the Protection of Marine Resources, Environment & Wildlife ",284000,280000
+,Total,1463917000,1398925000
