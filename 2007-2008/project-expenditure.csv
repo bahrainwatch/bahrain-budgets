@@ -1,30 +1,30 @@
-Description,2008,2007,Ministry Code
-National Guard,1000000,566000,50
-Ministry of Interior,32180000,33077000,13
-Ministry of Foreign Affairs,0,122000,16
-Civil Service Bureau,286000,295000,72
-Central Informatics Organization,0,689000,73
-Ministry of Islamic Affairs,800000,800000,77
-Survey & Land Registration Bureau,1753000,1814000,78
-Ministry of Information,2655000,3701000,20
-Ministry of Education,9287000,7270000,21
-Ministry of Health,23003000,25384000,22
-Ministry of Labour,0,590000,24
-General Organization for Youth & Sports,12094000,12390000,26
-Ministry of Social Development,0,299000,29
-Ministry of Industry & Commerce,6178000,6711000,34-56
-Ministry of Finance,9500000,10045000,81
-Ministry of Works & Housing,176331000,179668000,46
-Ministry of Electricity & Water,99946000,97877000,47
-Ministry of Transportation,0,607000,48
-Civil Aviation Affairs,33554000,23535000,52
-"Customs,Ports & Free Zones Affairs",13211000,16450000,83
-Ministry of Municipalities Affairs & Agriculture (Agriculture Affairs),953000,1151000,23
-Ministry of Municipalities Affairs & Agriculture (Municipalities Affairs),10000000,5337000,25
-"Public Commission For the Protection of Marine Resources, Environment & Wildlife",2182000,736000,41
-Radio & TV Corporation,3255000,206000,60 20
-Bahrain University,1527000,1603000,60 30
-Bahrian Development Bank,0,40000000,60 38
-Various Capital Projects,38305000,47077000,60 38
-Economic Development Board,12000000,12000000,60 38
-Total,490000000,530000000,
+Sector,Description,2008,2007,Ministry Code
+Public Administration Sector,National Guard,1000000,566000,50
+Public Administration Sector,Ministry of Interior,32180000,33077000,13
+Public Administration Sector,Ministry of Foreign Affairs,0,122000,16
+Public Administration Sector,Civil Service Bureau,286000,295000,72
+Public Administration Sector,Central Informatics Organization,0,689000,73
+Public Administration Sector,Ministry of Islamic Affairs,800000,800000,77
+Public Administration Sector,Survey & Land Registration Bureau,1753000,1814000,78
+Social Services Sector,Ministry of Information,2655000,3701000,20
+Social Services Sector,Ministry of Education,9287000,7270000,21
+Social Services Sector,Ministry of Health,23003000,25384000,22
+Social Services Sector,Ministry of Labour,0,590000,24
+Social Services Sector,General Organization for Youth & Sports,12094000,12390000,26
+Social Services Sector,Ministry of Social Development,0,299000,29
+Economic Services Sector,Ministry of Industry & Commerce,6178000,6711000,34-56
+Economic Services Sector,Ministry of Finance,9500000,10045000,81
+Infrastructure Sector,Ministry of Works & Housing,176331000,179668000,46
+Infrastructure Sector,Ministry of Electricity & Water,99946000,97877000,47
+Infrastructure Sector,Ministry of Transportation,0,607000,48
+Infrastructure Sector,Civil Aviation Affairs,33554000,23535000,52
+Infrastructure Sector,"Customs,Ports & Free Zones Affairs",13211000,16450000,83
+Miscellaneous Budget,Ministry of Municipalities Affairs & Agriculture (Agriculture Affairs),953000,1151000,23
+Miscellaneous Budget,Ministry of Municipalities Affairs & Agriculture (Municipalities Affairs),10000000,5337000,25
+Miscellaneous Budget,"Public Commission For the Protection of Marine Resources, Environment & Wildlife",2182000,736000,41
+Transfer Budget,Radio & TV Corporation,3255000,206000,60 20
+Transfer Budget,Bahrain University,1527000,1603000,60 30
+Transfer Budget,Bahrian Development Bank,0,40000000,60 38
+Transfer Budget,Various Capital Projects,38305000,47077000,60 38
+Transfer Budget,Economic Development Board,12000000,12000000,60 38
+,Total,490000000,530000000,
