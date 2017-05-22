@@ -1,8 +1,6 @@
-# State Budget for the Fiscal Years 2005 - 2006
-## Ministry of Finance, Government of Bahrain
+# State Budget for the Fiscal Years 2005 - 2006, Government of Bahrain
 
 * Source: 
-  * http://www.mofne.gov.bh/ShowDataFile.asp?rid=769
-  * http://www.mofne.gov.bh/Categorylist.asp?cType=budget
-
-* Accessed on 15 May 2017
+  * Legislation & Legal Opinion Commission website
+  * http://www.legalaffairs.gov.bh/LegislationSearchDetails.aspx?id=3304
+  * Accessed on 20 May 2017
