@@ -1,28 +1,28 @@
-Description,2012,2011
-Ministry of Interior,35039000,34958000
-Customs Affairs,94530000,89781000
-legislation & legal Opinion Commission,48000,48000
-Ministry of Foreign Affairs,1875000,1875000
-Ministry of Justice & Islamic Affairs & Awqaf (Justice Affairs),8450000,8450000
-Ministry of Justice & Islamic Affairs & Awqaf (Islamic Affairs),10000,10000
-Central Informatics Organization,603000,603000
-Civil Service Bureau,5000,5000
-Survey & Land Registration Bureau,8470000,7470000
-Ministry of Culture,8618000,8518000
-Information Affairs Authority,1000000,1000000
-Ministry of Education,208000,198000
-Ministry of Health,14094000,13616000
-Ministry of Labour,454000,420000
-Ministry of Social Development,15000,15000
-Ministry of Industry & Commerce,6775000,6591000
-National Oil & Gas Authority,300000,300000
-Ministry of Finance,2000,2000
-Ministry of Works,250000,250000
-"Post, Communication,Frequency and Transport Affairs",6255000,6255000
-Civil Aviation Affairs,10605000,9919000
-Ministry of Municipal Affairs & Urban Planning ,330000,330000
-"Public Commission for the Protection of Marine Resources, Environment & Wildlife ",333000,323000
-Oil & Gas revenues,2058008000,1997859000
-Grants,37600000,37600000
-Miscellaneous Revenue,54153000,61485000
-Total,2348030000,2287881000
+Sector,Description,2012,2011
+Public Administration Sector,Ministry of Interior,35039000,34958000
+Public Administration Sector,Customs Affairs,94530000,89781000
+Public Administration Sector,legislation & legal Opinion Commission,48000,48000
+Public Administration Sector,Ministry of Foreign Affairs,1875000,1875000
+Public Administration Sector,Ministry of Justice & Islamic Affairs & Awqaf (Justice Affairs),8450000,8450000
+Public Administration Sector,Ministry of Justice & Islamic Affairs & Awqaf (Islamic Affairs),10000,10000
+Public Administration Sector,Central Informatics Organization,603000,603000
+Public Administration Sector,Civil Service Bureau,5000,5000
+Public Administration Sector,Survey & Land Registration Bureau,8470000,7470000
+Social Services Sector,Ministry of Culture,8618000,8518000
+Social Services Sector,Information Affairs Authority,1000000,1000000
+Social Services Sector,Ministry of Education,208000,198000
+Social Services Sector,Ministry of Health,14094000,13616000
+Social Services Sector,Ministry of Labour,454000,420000
+Social Services Sector,Ministry of Social Development,15000,15000
+Economic Services Sector,Ministry of Industry & Commerce,6775000,6591000
+Economic Services Sector,National Oil & Gas Authority,300000,300000
+Economic Services Sector,Ministry of Finance,2000,2000
+Infrastructure Sector,Ministry of Works,250000,250000
+Infrastructure Sector,"Post, Communication,Frequency and Transport Affairs",6255000,6255000
+Infrastructure Sector,Civil Aviation Affairs,10605000,9919000
+Miscellaneous Budget,Ministry of Municipal Affairs & Urban Planning ,330000,330000
+Miscellaneous Budget,"Public Commission for the Protection of Marine Resources, Environment & Wildlife ",333000,323000
+Accounts under MOF Control,Oil & Gas revenues,2058008000,1997859000
+Accounts under MOF Control,Grants,37600000,37600000
+Accounts under MOF Control,Miscellaneous Revenue,54153000,61485000
+,Total,2348030000,2287881000

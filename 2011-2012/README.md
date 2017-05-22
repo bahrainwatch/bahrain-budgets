@@ -1,8 +1,6 @@
-# State Budget for the Fiscal Years 2011 - 2012
-## Ministry of Finance, Government of Bahrain
+# State Budget for the Fiscal Years 2011 - 2012, Government of Bahrain
 
 * Source: 
-  * http://www.mof.gov.bh/ShowDataFile.asp?rid=2634
-  * http://www.mof.gov.bh/Categorylist.asp?cType=budget
-
-* Accessed on 12 May 2017
+  * Legislation & Legal Opinion Commission website
+  * http://www.legalaffairs.gov.bh/LegislationSearchDetails.aspx?id=2207
+  * Accessed on 20 May 2017
