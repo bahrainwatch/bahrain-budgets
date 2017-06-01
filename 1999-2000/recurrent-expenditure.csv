@@ -1,0 +1,54 @@
+Sector,Ministry code,Description,2000,1999
+Public Administration Sector,11,Prime Minister's Court,639000,639000
+Public Administration Sector,12,Ministry of Defence,120000000,120000000
+Public Administration Sector,50,National Guard,5000000,5000000
+Public Administration Sector,13,Ministry of Interior,96000000,94500000
+Public Administration Sector,71,Ministry of Cabinet and Information Affairs (Cabinet Affairs),959000,959000
+Public Administration Sector,72,Civil Service Bureau,2371000,2327000
+Public Administration Sector,73,Central Statistics Organisation,2607000,2573000
+Public Administration Sector,15,Ministry of Cabinet Affairs and Information (Legal Affairs Section),365000,365000
+Public Administration Sector,16,Ministry of Foreign Affairs,9742000,9680000
+Public Administration Sector,18,Ministry of Justice and Islamic Affairs,5054000,4954000
+Social Services Sector,20,Ministry of Cabinet and Information Affairs (Information Affairs),6989000,6930000
+Social Services Sector,21,Ministry of Education,87200000,84500000
+Social Services Sector,22,Ministry of Health,59200000,57400000
+Social Services Sector,24,Ministry of Labour and Social Affairs,8715000,8627000
+Social Services Sector,26,General Organization for Youth & Sports,4383000,4345000
+Economic Services Sector,34,Ministry of Commerce,2713000,2703000
+Economic Services Sector,51,Ministry of Oil & Industry,2331000,2295000
+Economic Services Sector,81,Ministry of Finance & National Economy,4392000,4314000
+Economic Services Sector,82,Central Stores Directorate,1545000,1510000
+Infrastructure Sector,45,"Ministry of Housing, Municipalities & Environment (Housing Affairs)",5065000,4977000
+Infrastructure Sector,46,Ministry of Works & Agriculture,15426000,15163000
+Infrastructure Sector,47,Ministry of Electricity & Water,37400000,36900000
+Infrastructure Sector,47 60,Hidd Power & Water Station,5300000,4200000
+Infrastructure Sector,48,Ministry of Transportation,8007000,7845000
+Infrastructure Sector,52,Civil Aviation Affairs,9782000,9652000
+Infrastructure Sector,83,Customs & Ports Affairs,13522000,13252000
+Miscellaneous Budget,19,Supreme Council for Oil,87000,85000
+Miscellaneous Budget,27,"Ministry of Housing, Municipalities & Environment (Environment Affairs)",600000,580000
+Miscellaneous Budget,28,Equestrian & Horse Racing Club,715000,706000
+Miscellaneous Budget,41,Al Areen Reserve,546000,536000
+Miscellaneous Budget,42,Amiri Flight,2159000,2156000
+Miscellaneous Budget,43,Mohd Bin Khalifa Al Khalifa Cardiac Center,3062000,3062000
+Miscellaneous Budget,49,Office of the Minister of State,235000,233000
+Transfer Budget,60 11,Amiri Court,6000000,6000000
+Transfer Budget,60 12,Crown Prince's Court,2453000,2453000
+Transfer Budget,60 13,Ruling Family Council,1741000,1741000
+Transfer Budget,60 20,Radio & TV Corporation,7722000,7722000
+Transfer Budget,60 24,Bahrain Center for Research & Study,548000,548000
+Transfer Budget,60 27,Sunni Awqaf,420000,420000
+Transfer Budget,60 28,Ja'afari Awqaf,420000,420000
+Transfer Budget,60 30,Bahrain University,10037000,10037000
+Transfer Budget,60 34,Subsidies,3325000,3325000
+Transfer Budget,60 35,Bait al-Qura'an,76000,76000
+Transfer Budget,60 37,Shura Council,1458000,1458000
+Transfer Budget,60 39,Districts,1288000,1288000
+Transfer Budget,60 41,High Council for Islamic Affairs,1500000,1500000
+Transfer Budget,60 44,Bahrain Promotions and Marketing Board,1425000,1425000
+Transfer Budget,60 45,UNDP,750000,750000
+Transfer Budget (Accounts Under Ministry of Finance Control),60 38,Emergency Expenses,4500000,4500000
+Transfer Budget (Accounts Under Ministry of Finance Control),60 38,Payment of Interest on Loans,23000000,22400000
+Transfer Budget (Accounts Under Ministry of Finance Control),60 38,Contribution to GCC,1520000,1520000
+Transfer Budget (Accounts Under Ministry of Finance Control),60 38,Local Transfers,11706000,15449000
+,,Total,602000000,596000000
